@@ -11,6 +11,7 @@ namespace TodoREST
         // URL of REST service (Android does not use localhost)
         // Use http cleartext for local deployment. Change to https for production
         //public static string RestUrl = DeviceInfo.Platform == DevicePlatform.Android ? "http://10.0.2.2:5000/api/todoitems/{0}" : "http://localhost:5000/api/todoitems/{0}";
-        public static string RestUrl = "https://my-json-server.typicode.com/gasparoberti/db/todos";
+        //public static string RestUrl = "https://my-json-server.typicode.com/gasparoberti/db/todos";
+        public static string RestUrl = "https://xamarin-todo-api.herokuapp.com/api/todoitems";
     }
 }
