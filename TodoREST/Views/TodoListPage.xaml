@@ -18,13 +18,19 @@
         <ListView.ItemTemplate>
             <DataTemplate>
                 <ViewCell>
-                    <StackLayout Padding="20,0,0,0" 
+                    <StackLayout Padding="5,0,0,0" 
                                  HorizontalOptions="StartAndExpand"
                                  Orientation="Horizontal">
                         <Label Text="{Binding Name}" 
-                               VerticalTextAlignment="Center" />
-                        <Image Source="check.png" 
-                               IsVisible="{Binding Done}" />
+                               VerticalTextAlignment="Center" 
+                               TextColor="Black"
+                               FontAttributes="Bold"
+                               FontSize="Medium"/>
+                        <Image Source="check2x.png" 
+                               IsVisible="{Binding Done}"
+                               WidthRequest="20" 
+                               HeightRequest="20" />
+                        <!--el tamaño de la imagen cambia solo si se modifica el width-->
                     </StackLayout>
                 </ViewCell>
             </DataTemplate>
