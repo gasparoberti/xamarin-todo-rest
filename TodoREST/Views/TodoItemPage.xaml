@@ -3,20 +3,18 @@
 			 xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
 			 x:Class="TodoREST.TodoItemPage" 
 			 Title="Todo">
-	<StackLayout Margin="20">
-		<Label Text="Name" />
-		<Entry Text="{Binding Path=Name}" 
-               Placeholder="Enter item" />
-		<Label Text="Notes" />
-		<Entry Text="{Binding Path=Notes}"
-               Placeholder="Enter notes" />
-		<Label Text="Done" />
-		<Switch IsToggled="{Binding Path=Done}" />
-		<Button Text="Save" 
-                Clicked="OnSaveButtonClicked" />
-		<Button Text="Delete"
-                Clicked="OnDeleteButtonClicked" />
-		<Button Text="Cancel" 
-                Clicked="OnCancelButtonClicked" />
-	</StackLayout>
+    <StackLayout Padding="5,0,0,0" 
+                                 HorizontalOptions="StartAndExpand"
+                                 Orientation="Horizontal">
+        <Label Text="{Binding Name}" 
+                               VerticalTextAlignment="Center" 
+                               TextColor="Black"
+                               FontAttributes="Bold"
+                               FontSize="Medium"/>
+        <Image Source="check2x.png" 
+                               IsVisible="{Binding Done}"
+                               WidthRequest="20" 
+                               HeightRequest="20" />
+        <!--el tamaño de la imagen cambia solo si se modifica el width-->
+    </StackLayout>
 </ContentPage>
