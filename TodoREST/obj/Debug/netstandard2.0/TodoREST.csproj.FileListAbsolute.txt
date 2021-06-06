@@ -1,0 +1,12 @@
+D:\Documentos\Proyectos\xamarin\xamarin-forms-samples\WebServices\TodoREST\TodoREST\bin\Debug\netstandard2.0\TodoREST.deps.json
+D:\Documentos\Proyectos\xamarin\xamarin-forms-samples\WebServices\TodoREST\TodoREST\bin\Debug\netstandard2.0\TodoREST.dll
+D:\Documentos\Proyectos\xamarin\xamarin-forms-samples\WebServices\TodoREST\TodoREST\bin\Debug\netstandard2.0\TodoREST.pdb
+D:\Documentos\Proyectos\xamarin\xamarin-forms-samples\WebServices\TodoREST\TodoREST\obj\Debug\netstandard2.0\TodoREST.csprojAssemblyReference.cache
+D:\Documentos\Proyectos\xamarin\xamarin-forms-samples\WebServices\TodoREST\TodoREST\obj\Debug\netstandard2.0\Views\TodoItemPage.xaml.g.cs
+D:\Documentos\Proyectos\xamarin\xamarin-forms-samples\WebServices\TodoREST\TodoREST\obj\Debug\netstandard2.0\Views\TodoListPage.xaml.g.cs
+D:\Documentos\Proyectos\xamarin\xamarin-forms-samples\WebServices\TodoREST\TodoREST\obj\Debug\netstandard2.0\TodoREST.AssemblyInfoInputs.cache
+D:\Documentos\Proyectos\xamarin\xamarin-forms-samples\WebServices\TodoREST\TodoREST\obj\Debug\netstandard2.0\TodoREST.AssemblyInfo.cs
+D:\Documentos\Proyectos\xamarin\xamarin-forms-samples\WebServices\TodoREST\TodoREST\obj\Debug\netstandard2.0\TodoREST.csproj.CoreCompileInputs.cache
+D:\Documentos\Proyectos\xamarin\xamarin-forms-samples\WebServices\TodoREST\TodoREST\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Documentos\Proyectos\xamarin\xamarin-forms-samples\WebServices\TodoREST\TodoREST\obj\Debug\netstandard2.0\TodoREST.dll
+D:\Documentos\Proyectos\xamarin\xamarin-forms-samples\WebServices\TodoREST\TodoREST\obj\Debug\netstandard2.0\TodoREST.pdb
